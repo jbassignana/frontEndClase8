@@ -1,0 +1,25 @@
+.headerimage {
+    background-size: cover;
+    width: 100vw;
+    background-position: center top;
+  
+}
+body { margin: 0}
+
+a {
+    text-decoration: none;
+    color: rgb(44, 44, 44);
+
+}
+html{font-family: 'Poppins', sans-serif;}
+
+.icono, p {display: inline-block; vertical-align: middle;
+}
+
+.align-text-center {
+    text-align: center;
+}
+
+li  {
+    text-decoration: none;
+}
